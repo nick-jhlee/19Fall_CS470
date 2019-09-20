@@ -1,2 +1,9 @@
-# 19Fall_CS470-2-
-Individual assignments for CS470: Introduction to A.I.
+# CS470: Introduction to Artificial Intelligence (19 Fall)
+Individual assignments
+
+## Schedule
+|Date|Event|
+|--|--|
+|2019-09-25|Homework #1 due|
+
+## Google Colaboratoy
