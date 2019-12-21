@@ -1,0 +1,15 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Audio data representations}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Audio signal}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Spectrum/Spectrogram}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Mel scale/Mel spectrogram}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Mel-frequency cepstrum \(MFC\)}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{Spectral statistics}{section.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.5.1}{Spectral centroid}{subsection.2.5}% 8
+\BOOKMARK [3][-]{subsubsection.2.5.2}{\(Octave-based\) Spectral Contrast}{subsection.2.5}% 9
+\BOOKMARK [1][-]{section.3}{Method}{}% 10
+\BOOKMARK [2][-]{subsection.3.1}{CNN Classification}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.2}{LSTM Classification}{section.3}% 12
+\BOOKMARK [1][-]{section.4}{Results}{}% 13
+\BOOKMARK [1][-]{section.5}{Discussion}{}% 14
+\BOOKMARK [1][-]{section.6}{Contributions}{}% 15
